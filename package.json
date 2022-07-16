@@ -1,0 +1,23 @@
+{
+  "name": "transflower",
+  "version": "1.0.0",
+  "description": "\"this is a transflower private limited elearning institute\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharatiKashid/transflower.git"
+  },
+  "author": "\"Bharati jadhva\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharatiKashid/transflower/issues"
+  },
+  "homepage": "https://github.com/BharatiKashid/transflower#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
